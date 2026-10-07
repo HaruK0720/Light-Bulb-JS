@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 構造体の整列 　 (mapで宣言＆配列生成） ＋💡おまけ：インスタンスメソッド
+  [qiita](https://qiita.com/Haru_K0720/items/59ecb1a1a3128f3cca96)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/class-map-array-Instance%20Methods.md)
+
 - 構造体の検索　（続 クラス・インスタンス）
   [qiita](https://qiita.com/Haru_K0720/items/e50fc092b99b719647bf)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Searching%20for%20Structures%20(Continued%3A%20Classes%20and%20Instances).md)
